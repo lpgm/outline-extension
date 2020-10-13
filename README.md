@@ -4,7 +4,7 @@ This extension for the Chrome browser makes it easier to use the outline.com ser
 
 ## How to install the extension in Windows 
 
-1. Create a new directory for the extension, for example, "C:\Users\you\projects\outline-extension". 
+1. Create a new directory for the extension, for example, "C:\Users\\<you\>\projects\outline-extension". 
 
 2. Copy all the files here into the new directory. 
 
